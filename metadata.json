@@ -1,0 +1,6 @@
+{
+  "name": "AURA Atelier | Luxury E-Commerce",
+  "description": "Premium modern e-commerce storefront featuring curated apparel, handcrafted leather, and architectural living objects with an integrated shop, cart, checkout, customer accounts, and administrative suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
